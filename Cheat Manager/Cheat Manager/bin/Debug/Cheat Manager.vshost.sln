@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Cheat Manager.vshost", "Cheat Manager.vshost.exe", "{03FFA0F5-A390-4FF6-9E16-C9E56982F6AB}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Diane\Desktop\Cheat Manager\VS 2010\Cheat Manager\Cheat Manager\bin\Debug\Cheat Manager.vshost.exe
+		RemoteMachine = DIANE-PC
+		StartingDirectory = C:\Users\Diane\Desktop\Cheat Manager\VS 2010\Cheat Manager\Cheat Manager\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FFA0F5-A390-4FF6-9E16-C9E56982F6AB}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

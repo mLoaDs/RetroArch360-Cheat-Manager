@@ -1,0 +1,8 @@
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\bin\Release\UGGConv.dll
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\bin\Release\UGGConv.pdb
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\bin\Release\UGGConv.xml
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\obj\Release\UGGConv.vbproj.GenerateResource.Cache
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\obj\Release\UGGConv.dll
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\obj\Release\UGGConv.xml
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\obj\Release\UGGConv.pdb
+C:\Users\Diane\Desktop\Cheat Manager\VS 2010\UGGConv.dll\UGGConv\obj\Release\UGGConv.Resources.resources
