@@ -1,7 +1,7 @@
 <img width="353" alt="unnamed2" src="https://github.com/user-attachments/assets/528b2053-1af7-4d11-b6b6-6417983affa3">
 
 # RetroArch360-Cheat-Manager
-Cheat-Manager for Unofficial RetroArch 360 by gavin_darkglider
+Cheat-Manager for Unofficial RetroArch 360 cores by gavin_darkglider
 
 A Database Program that will generate cht files that work with the Aurora enabled retroarch cores. The Official Retroarch build for the Xbox 360 does not support cht files, so go get the unofficial version.
 
